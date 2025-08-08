@@ -36,8 +36,8 @@ Tudo isso com uma pegada leve, moderna e feita por apaixonados por jogos.
 
 | Nome   | Função        |
 |--------|----------------|
-| Brenno | Fundador, Backend |
 | Lucas  | Fundador, Dev FullStack |
+| Brenno | Cofundador, Backend |
 | Sara   | Cofundadora, Frontend |
 
 
@@ -58,7 +58,7 @@ Fica ligado! 👾
 ## 📫 Contato
 
 Quer trocar uma ideia com a equipe?  
-Nos chama por e-mail: **arkhadia.contact@gmail.com**
+Nos chama por e-mail: **arkhadia168@gmail.com**
 
 ---
 
