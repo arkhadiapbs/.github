@@ -55,7 +55,7 @@ Fica ligado! 👾
 
 ---
 
-## 📫 Contato
+## 📫 Contatos
 
 Quer trocar uma ideia com a equipe?  
 Nos chama por e-mail: **arkhadia168@gmail.com**
